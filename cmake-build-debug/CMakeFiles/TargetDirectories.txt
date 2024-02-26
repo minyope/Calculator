@@ -1,0 +1,3 @@
+/Users/kimminyope/CLionProjects/projeact3/cmake-build-debug/CMakeFiles/projeact3.dir
+/Users/kimminyope/CLionProjects/projeact3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/kimminyope/CLionProjects/projeact3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
